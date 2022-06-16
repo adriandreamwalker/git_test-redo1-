@@ -1,0 +1,15 @@
+Hola señores, qué tal
+Se me dijo pusiera algo de texto aquí.
+Hecho!
+
+By they way, all of this redo is done with vim.
+vi vi vi
+At least is a free version! Just a penance, right?
+
+
+
+
+
+
+
+
